@@ -1,0 +1,74 @@
+﻿Build started 10/15/2018 10:56:20 AM.
+     1>Project "F:\SDL Project\SDL Game\SDL Game\SDL Game.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\MS Visual Studio\VC\bin\CL.exe /c /I"F:\SDL2\SDL2_ttf-2.0.14\include" /I"F:\SDL2\SDL2-2.0.8\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>f:\sdl project\sdl game\sdl game\main.cpp(138): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(179): warning C4244: '=' : conversion from '__int64' to 'int', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(207): warning C4244: 'argument' : conversion from 'float' to 'Uint32', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(215): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(218): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(228): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(231): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(244): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(245): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(246): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(242): warning C4101: 'y' : unreferenced local variable
+     1>f:\sdl project\sdl game\sdl game\main.cpp(242): warning C4101: 'x' : unreferenced local variable
+     1>f:\sdl project\sdl game\sdl game\main.cpp(261): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(262): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(263): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(259): warning C4101: 'y' : unreferenced local variable
+     1>f:\sdl project\sdl game\sdl game\main.cpp(259): warning C4101: 'x' : unreferenced local variable
+     1>f:\sdl project\sdl game\sdl game\main.cpp(526): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(560): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ms visual studio\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>f:\sdl project\sdl game\sdl game\main.cpp(572): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\ms visual studio\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>f:\sdl project\sdl game\sdl game\main.cpp(573): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(655): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(663): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(671): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(679): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(684): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(692): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(693): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(694): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(695): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(701): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(702): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(734): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>f:\sdl project\sdl game\sdl game\main.cpp(739): warning C4305: '=' : truncation from 'double' to 'float'
+     1>f:\sdl project\sdl game\sdl game\main.cpp(745): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>f:\sdl project\sdl game\sdl game\main.cpp(749): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(752): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(753): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(759): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(762): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(763): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(771): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>f:\sdl project\sdl game\sdl game\main.cpp(772): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(773): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(779): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(787): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(799): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(801): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>f:\sdl project\sdl game\sdl game\main.cpp(802): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(803): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\sdl project\sdl game\sdl game\main.cpp(810): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(811): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(821): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(822): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(859): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(868): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(882): warning C4018: '<' : signed/unsigned mismatch
+     1>f:\sdl project\sdl game\sdl game\main.cpp(892): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>f:\sdl project\sdl game\sdl game\main.cpp(915): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         F:\MS Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\SDL Project\SDL Game\Debug\SDL Game.exe" /INCREMENTAL /NOLOGO /LIBPATH:"F:\SDL2\SDL2_ttf-2.0.14\lib\x86" /LIBPATH:"F:\SDL2\SDL2-2.0.8\lib\x86" SDL2.lib SDL2main.lib SDL2_image.lib SDL2_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\SDL Project\SDL Game\Debug\SDL Game.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\SDL Project\SDL Game\Debug\SDL Game.lib" /MACHINE:X86 Debug\main.obj
+         SDL Game.vcxproj -> F:\SDL Project\SDL Game\Debug\SDL Game.exe
+     1>Done Building Project "F:\SDL Project\SDL Game\SDL Game\SDL Game.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.12
